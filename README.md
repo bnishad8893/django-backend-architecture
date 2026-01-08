@@ -10,6 +10,15 @@ secure backend systems using Django and Django REST Framework.
 - Asynchronous task processing
 - Production-ready deployment setup
 
+## 🧩 System Architecture
+
+![Backend Architecture](architecture.png)
+
+This architecture represents a production-ready Django backend designed
+for scalability, security, and high performance. It includes stateless
+REST APIs, asynchronous task processing, caching, and third-party
+service integrations commonly used in enterprise systems.
+
 ## 🏗️ Key Components
 - Django + Django REST Framework
 - PostgreSQL for relational data

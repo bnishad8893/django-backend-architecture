@@ -80,6 +80,6 @@ It showcases how to design Django systems that are scalable, secure, maintainabl
 ---
 
 ## Author:
-Bheem Nishaad
+### Bheem Nishaad
 Senior Backend Engineer | Python, Django, REST APIs
 
